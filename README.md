@@ -1,6 +1,6 @@
 # WPILib Vendor Template
 
-This is the base WPILib vendor template for 2025.
+This is the base WPILib vendor template for 2027.
 
 ## Layout
 
